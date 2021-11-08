@@ -15,17 +15,15 @@ https://github.com/ptandeo/AnDA
 
 Next on the list : 
 
-Partially observed systems
-
-Irregular observations
-
-Data-driven Koopman 
+* Partially observed systems
+* Irregular observations
+* Data-driven Koopman 
 
 Dependencies : 
 
-numpy 1.19.2
-pytorch 1.10.0
-tqdm 4.51.0
-scipy 1.5.3
-matplotlib 3.2.1
-torchdiffeq 0.1.1
+* numpy 1.19.2
+* pytorch 1.10.0
+* tqdm 4.51.0
+* scipy 1.5.3
+* matplotlib 3.2.1
+* torchdiffeq 0.1.1
