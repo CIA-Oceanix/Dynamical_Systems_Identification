@@ -12,3 +12,11 @@ Brunton, S. L., Proctor, J. L., & Kutz, J. N. (2016). Discovering governing equa
 Started code for data generation : 
 
 https://github.com/ptandeo/AnDA
+
+Next on the list : 
+
+Partially observed systems
+
+Irregular observations
+
+Data-driven Koopman 
